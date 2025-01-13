@@ -1,13 +1,10 @@
 Hey !! This is Nupur Madaan 
 
 # this user has her own code
-while no_success:
-
+if success == 1:
+    def achieve
+else:
     def try_again
-
-if dead:
-
-    def stop
 
 <!---
 Noor4589/Noor4589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
