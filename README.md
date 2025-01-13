@@ -1,6 +1,6 @@
 Hey !! This is Nupur Madaan 
 
-# this user has her own protocols 
+# this user has her own code
 while no_success:
 
     def try_again
