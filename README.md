@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Noor4589
-- 👀 I’m interested in exploring new things 
-- 🌱 I’m interested in AIML 
-- 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me : nupur.04.mn@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: A girl with no girly actions 
+Hey !! This is Nupur Madaan 
+
+while no_success:
+    def try_again
+if dead:
+    def stop
 
 <!---
 Noor4589/Noor4589 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
